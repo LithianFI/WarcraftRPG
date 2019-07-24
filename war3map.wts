@@ -1,0 +1,94 @@
+﻿STRING 1
+{
+RPGProject
+}
+
+STRING 2
+{
+Any
+}
+
+STRING 3
+{
+Nondescript
+}
+
+STRING 4
+{
+Unknown
+}
+
+STRING 5
+{
+Player 1
+}
+
+STRING 6
+{
+Force 1
+}
+
+STRING 7
+// Units: S001 (Windrunner), Name (Name)
+{
+Windrunner
+}
+
+STRING 8
+// Units: S001 (Windrunner), EditorSuffix (Name - Editor Suffix)
+{
+(Selection)
+}
+
+STRING 9
+// Units: S002 (Sorceress), Name (Name)
+{
+Sorceress
+}
+
+STRING 10
+// Units: S002 (Sorceress), EditorSuffix (Name - Editor Suffix)
+{
+(Selection)
+}
+
+STRING 11
+{
+Ranged hero favoring bow and stealth attacks to ambush her prey.
+}
+
+STRING 12
+// Units: selc (Spirit), Name (Name)
+{
+Spirit
+}
+
+STRING 13
+// Units: selc (Spirit), Ubertip (Tooltip - Extended)
+{
+Wandering spirit, striving for greatness.
+}
+
+STRING 14
+// Units: selc (Spirit), Tip (Tooltip - Basic)
+{
+Spirit
+}
+
+STRING 15
+// Units: WIND (Windunner), Name (Name)
+{
+Windunner
+}
+
+STRING 16
+// Units: WIND (Windunner), EditorSuffix (Name - Editor Suffix)
+{
+(Playable)
+}
+
+STRING 17
+{
+Ranged hero favoring bow and stealth attacks to ambush her prey.
+}
+
